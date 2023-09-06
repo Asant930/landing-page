@@ -33,6 +33,19 @@ button {
   background-color: #1f2937;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 200px;
+  margin-right: 200px; 
+  padding: 16px;
+}
+
+.right-links {
+  display: flex;
+  gap: 16px;
+}
+
 .logo {
   color: #f9faf8;
   font-size: 24px;
