@@ -51,10 +51,23 @@ button {
   gap: 16px;
 }
 
+.website-top {
+  display: flex;
+  margin-top: 100px;
+}
+
+.website-top-left{
+  display: flex;
+  flex-direction: column;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
 .hero-main {
   font-size: 48px;
   font-weight: bolder;
   color: #f9faf8;
+  margin-bottom: 0;
 }
 
 .hero-secondary {
@@ -64,6 +77,8 @@ button {
 
 .main-pic {
   width: 500px;
+  margin-right: 200px;
+  margin-bottom: 100px;
   border-radius: 0;
 }
 
