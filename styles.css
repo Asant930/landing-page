@@ -71,6 +71,7 @@ button {
 
 .website-top-left{
   display: flex;
+  align-items: flex-start;
   flex-direction: column;
   margin-left: 200px;
   margin-right: 200px;
