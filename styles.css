@@ -96,6 +96,29 @@ button {
   border-radius: 0;
 }
 
+.container-two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info-container {
+  margin: 25px auto;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 25px 200px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+
 .container-three{
   background-color: #E5e7eb;
 }
